@@ -1,0 +1,1 @@
+data=read.table('DATA_2.01_SKU.csv', header = T,sep=',')
